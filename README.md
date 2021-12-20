@@ -1,2 +1,3 @@
 # RNAseq_lecture
-Supporting material for lecture on RNA-seq 
+This repository contains supporting material for a lecture on RNA-seq.
+
